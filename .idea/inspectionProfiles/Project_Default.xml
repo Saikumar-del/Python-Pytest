@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="search_box" />
+          <option value="selenium.webdriver.*" />
+          <option value="config.*" />
+          <option value="ChildImpl.Calculator" />
+          <option value="PythonSelFramework.PageObjects.Homepage.checkOutpage" />
+          <option value="PythonSelFramework.PageObjects.Homepage.CheckOutPage" />
+          <option value="PythonSelFramework.test_e2e.checkoutpage" />
+          <option value="PythonSelFramework.PageObjects.Checkoutpage.ConfirmPage" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.HomePageData" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.HomePage" />
+          <option value="PythonSelFramework.Utility.BaseClass.Select" />
+          <option value="PythonSelFramework.Utility.BaseClass.locator" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.selectOptonByText" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.driver" />
+          <option value="PythonSelFramework.test_e2e.pageObjects" />
+          <option value="PythonSelFramework.test_e2e.utilities" />
+          <option value="PythonSelFramework.test_e2e.BaseClass1" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.TestHomePage.TestHomePage.getLogger" />
+          <option value="PythonSelFramework.PageObjects.test_HomePage.TestHomePage.TestHomePage.driver" />
+          <option value="pytest" />
+          <option value="OwnProject.nopcommerce.Testcases.test_login.pageObjects" />
+          <option value="LoginPage" />
+          <option value="utilities" />
+          <option value="OwnProject.nopcommerce.Utilities.readProparties.read" />
+          <option value="PythonSelFramework.PageObjects.TestDate.excelDemo.Dict" />
+          <option value="OwnProject.TestCase_Orange_html_login.__init__" />
+          <option value="PytestDemo.pageObject.test_login.*" />
+          <option value="Pytest_Sessions.test_webpage_login.ChromeDriverManager" />
+          <option value="Pytest_Sessions.test_webpage_login.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
